@@ -1,4 +1,4 @@
-# 
+# automatic NFT Wash Trading Bot for nft floor sweeper bot | mint-detection & flip-strategies is the best nft floor sweeper bot, featuring mint-detection and flip-strategies. Fast,
 
 
 
